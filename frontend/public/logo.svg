@@ -1,0 +1,18 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo background -->
+  <rect width="120" height="40" rx="8" fill="#1e40af"/>
+  
+  <!-- Coffee cup icon representing Java -->
+  <g transform="translate(8, 8)">
+    <path d="M3 6h12v2c0 3.314-2.686 6-6 6s-6-2.686-6-6V6z" fill="#ffffff"/>
+    <path d="M3 6V4c0-1.105.895-2 2-2h6c1.105 0 2 .895 2 2v2" stroke="#ffffff" stroke-width="1.5" fill="none"/>
+    <path d="M15 8c1.105 0 2 .895 2 2s-.895 2-2 2" stroke="#ffffff" stroke-width="1.5" fill="none"/>
+    <!-- Steam lines -->
+    <path d="M6 2V1M9 2V1M12 2V1" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="32" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">
+    Java Learning
+  </text>
+</svg>
